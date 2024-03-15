@@ -1,6 +1,3 @@
-import math
-
-
 def all_div(N):
     divisors = []
     i=1
